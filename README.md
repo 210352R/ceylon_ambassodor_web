@@ -1,3 +1,81 @@
+# Ceylon Ambassador Website
+
+A modern, responsive website for Ceylon Ambassador, showcasing freight and logistics services, company information, and service offerings.
+
+## Features
+
+- 🌐 Responsive Navigation with dropdown menus
+- 📱 Mobile-friendly design
+- 🎯 Interactive Service Cards
+- 🔄 Animated Components using AOS
+- 📋 FAQ Section
+- 📬 Contact Forms
+- 🌍 Global Network Display
+- 🏢 Multiple Company Portfolios
+- 📰 Blog Integration
+- 🛫 Freight Booking System
+
+## Technologies
+
+- React.js 18
+- Tailwind CSS
+- React Router v6
+- AOS (Animate On Scroll)
+- React Icons
+- Custom SVG Components
+- Responsive Design
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm (v6 or higher)
+
+### Installation
+
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/ceylon-ambassador.git
+```
+
+2. Navigate to project directory
+
+```bash
+cd ceylon-ambassador
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start development server
+
+```bash
+npm start
+```
+
+5. Visit http://localhost:3000 to view the application.
+
+## Project Structure
+```bash
+ceylon-ambassador/
+├── src/
+│   ├── assets/          # Static assets (images, SVGs)
+│   ├── components/      # Reusable components~
+│   ├── screens/         # Page components
+│   │   ├── Homepage/
+│   │   ├── faq/
+│   │   ├── contact/
+│   │   └── ...
+│   └── App.js          # Main application component
+├── public/             # Public assets
+└── package.json        # Project dependencies
+```
+
+
 # Production
 https://www.ceylonambassador.com/
 
